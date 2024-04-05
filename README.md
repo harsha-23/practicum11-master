@@ -1,3 +1,3 @@
 # Teammates
-- [Harshavardhan Reddy Dhoma]
-- [Khusbu Bhatia]
+- Harshavardhan Reddy Dhoma
+- Khusbu Bhatia
